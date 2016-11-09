@@ -1,7 +1,7 @@
 # Site settings
 title: 3billion
 email: gucci@3billion.io
-url: https://3billion.io
+url: http://3billion.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Personal genome data platform "
 meta_author: LastName FirstName
@@ -16,7 +16,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-#contact: static
+contact: disqus
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -32,8 +32,8 @@ color:
 # Footer settings
 footer:
   copyright: 3billion 
-  location: Location
-  social: Around the Web
+  location: Address
+  social: 3billion on web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -42,13 +42,15 @@ social:
     url: http://twitter.com/3billion
   - title: facebook
     url: https://www.facebook.com/3billion
-  - title: github
-    url: http://github.com/3billion
+  - title : linkedin
+    url : http://linkedin.com/changwonkeum
+#  - title: github
+#    url: http://github.com/3billion
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Gangnam-gu
-  - line: Seoul, South Korea
+  - line: 4th floor, Sunreung-ro 551
+  - line: Gangnam-gu, Seoul, South Korea
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
