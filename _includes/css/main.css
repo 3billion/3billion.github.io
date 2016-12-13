@@ -526,3 +526,16 @@ footer .footer-below {
 .sub-title {
 	margin-top:20px;
 }
+
+
+.tester_recruite{
+	font-size:1.2em;
+	width:600px;
+	margin: 70px auto 0;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	border-radius:5px;
+}
+
+.tester_recruite a {
+}
