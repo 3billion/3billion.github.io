@@ -499,6 +499,13 @@ footer .footer-below {
 }
 
 
+.member-img.jiwonhur{
+	background-image: url('img/inter.png');
+	background-position: 50% 20%;
+
+}
+
+
 .member-img.jameslee{
 	background-image: url('img/jameslee.jpg');
 }
